@@ -1,0 +1,160 @@
+
+2.webp
+size: 1930,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f5_00000
+  rotate: false
+  xy: 2, 330
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00002
+  rotate: false
+  xy: 2, 166
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00004
+  rotate: false
+  xy: 254, 330
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00005
+  rotate: false
+  xy: 2, 2
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00006
+  rotate: false
+  xy: 254, 166
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00007
+  rotate: false
+  xy: 506, 330
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00008
+  rotate: false
+  xy: 254, 2
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00009
+  rotate: false
+  xy: 506, 166
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00010
+  rotate: false
+  xy: 758, 330
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00011
+  rotate: false
+  xy: 506, 2
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00012
+  rotate: false
+  xy: 758, 166
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00013
+  rotate: false
+  xy: 1010, 330
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00014
+  rotate: false
+  xy: 758, 2
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00015
+  rotate: false
+  xy: 1010, 166
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00016
+  rotate: false
+  xy: 1262, 330
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00017
+  rotate: false
+  xy: 1010, 2
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00018
+  rotate: false
+  xy: 1262, 166
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00019
+  rotate: false
+  xy: 1514, 330
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00020
+  rotate: false
+  xy: 1262, 2
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00021
+  rotate: false
+  xy: 1514, 166
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00022
+  rotate: true
+  xy: 1766, 242
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+f5_00023
+  rotate: false
+  xy: 1514, 2
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
